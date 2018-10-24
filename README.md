@@ -1,3 +1,7 @@
+# Rewrite planned to C for...
+more hmm I don't know
+
+Original description:
 # C++ Software Renderer/Rasterizer
 
 This project implements a C++ software renderer/rasterizer with vertex- and
@@ -66,4 +70,4 @@ v.drawElements(DrawMode::Triangle, indexData.size(), indexData);
 
 ## License
 
-This code is licensed under the MIT License (see [LICENSE](LICENSE)).
+This code is licensed under the MIT License (see [LICENSE](LICENSE)) for the original code. 
